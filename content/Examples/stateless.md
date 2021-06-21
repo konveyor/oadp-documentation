@@ -1,6 +1,6 @@
 ---
 title: "Back/Restore Stateless App"
-draft: true
+draft: false
 ---
 
 # Backup/Restore Stateless Application
