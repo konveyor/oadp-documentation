@@ -1,9 +1,8 @@
 ---
-title: "Home"
+title: "OADP"
 draft: false
 ---
 
-# OADP
 ### An OpenShift Application Data Protection operator.
 
 ---
@@ -22,5 +21,4 @@ using components such as:
 ---
 
 ### OADP with Ceph CSI:
-{{< youtube "cyal8B3czLg" >}}
-
+[![Presentation:](images/youtube2.png)](http://www.youtube.com/watch?v=cyal8B3czLg)

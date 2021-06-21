@@ -1,6 +1,7 @@
 ---
 title: "Quickstart"
 draft: false
+weight: 0
 ---
 
 # Installation
