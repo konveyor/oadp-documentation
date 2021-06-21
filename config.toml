@@ -1,5 +1,5 @@
-baseURL = "http://localhost"
-title = "Geekdocs"
+baseURL = "https://oadp.koneveyor.io"
+title = "OpenShift API for Data Protection"
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
