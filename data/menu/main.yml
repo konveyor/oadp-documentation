@@ -1,0 +1,38 @@
+---
+main:
+  - name: Getting Started
+    sub:
+      - name: Overview
+        ref: "/Getting Started/overview"
+      - name: Quickstart
+        ref: "/Getting Started/installation"
+
+  - name: Examples
+    sub:
+      - name: Backup/Restore Stateless App
+        ref: "/Examples/stateless"
+      - name: Backup/Restore Stateful App
+        ref: "/Examples/stateful"
+      - name: Using Noobaa
+        ref: "/Examples/ocs"
+
+  - name: Configuration
+    sub:
+      - name: Overview
+        ref: "/Configuration/configuration"
+      - name: Plugins
+        ref: "/Configuration/plugins"
+      - name: BSL & VSL
+        ref: "/Configuration/bsl_and_vsl"
+      - name: Additional
+        ref: "/Configuration/additonal_config"
+
+  - name: More 
+    sub:
+      - name: View Source
+        ref: "/More Information/source"
+      - name: Contributors
+        ref: "/More Information/contributors"
+      - name: Contact
+        ref: "/More Information/contact"
+
