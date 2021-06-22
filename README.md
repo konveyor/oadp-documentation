@@ -23,3 +23,16 @@ Make sure `draft` is set to `false`.
 To start the Hugo server, run the command:
 
 `hugo server`
+
+## Adding a Page to the Navigation
+The navigation menu is located at data/menu/main.yml
+To add an additional page, enter a chosen name under the appropriate 
+section, and the link to that page. 
+
+An example of the Overview page:
+```
+  - name: Getting Started
+    sub:
+      - name: Overview
+        ref: "/Getting Started/overview"
+```
